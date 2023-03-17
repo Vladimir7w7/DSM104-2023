@@ -4,7 +4,7 @@
             "outputFile": "com.example.firebase.app-mergeDebugResources-32:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\VLADIMIR\\.gradle\\caches\\transforms-3\\7b019a2bed59857cfa021ef91e7cec46\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\VLADIMIR\\.gradle\\caches\\transforms-3\\0be5138bc20f22186bed7ddf4d6a9bfd\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\VLADIMIR\\.gradle\\caches\\transforms-3\\d44d09eeaa30ce418e72ad763f74f25d\\transformed\\core-1.9.0\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\VLADIMIR\\.gradle\\caches\\transforms-3\\7499d0fe4d629ed2f98eb0d25128152d\\transformed\\core-1.9.0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
